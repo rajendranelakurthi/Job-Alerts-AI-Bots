@@ -1,0 +1,6 @@
+{
+  "name": "DevOps & SRE Daily Job Alerts",
+  "description": "Daily 8:00 AM automated job alert radar and tracker for DevOps, SRE, Azure DevOps, and Platform Engineer roles in North America with push notifications, email digests, and sponsorship filters.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
